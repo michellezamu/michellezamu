@@ -8,7 +8,7 @@
 
 # 💻 Featured Project: 
 **- What We Did:** Developed a custom pipeline using BERT embeddings and TF-IDF weighting to detect historical bias in event descriptions, analyzing 500 historical documents to identify patterns in linguistic framing and sentiment. </br>
-**- Tools:** Python, Google Colab, BERT, TF-IDF, Wikipedia articles
+**- Tools:** Python, Google Colab, BERT, TF-IDF, Wikipedia articles </br>
 **- Result:** Evaluated model performance using precision (76%) and F1 score (73%) to assess bias detection accuracy and interpretability, revealing significant disparities in historical portrayal.
 
 # 💻 Tech Stack:
