@@ -3,8 +3,8 @@
 # 💫 Hi, I'm Michelle:
 👩🏽‍💻 Data Scientist + Researcher learning new things everyday<br>
 🎓 Student at the UC Berkeley College of Computing, Data Science, and Society<br>
-💡 Currently learning about ML/AI<br>
-👩🏽‍🍳 Amateur self-proclaimed chef
+💡 Interested in all things ML/AI + neuroscience/psychology <br>
+🍪 Chocolate chip cookie connoisseur 
 
 # 💻 Featured Project: 
 **- What We Did:** Developed a custom pipeline using BERT embeddings and TF-IDF weighting to detect historical bias in event descriptions, analyzing 500 historical documents to identify patterns in linguistic framing and sentiment. </br>
